@@ -2,7 +2,7 @@
 Docker Container for the [BorgBackup](https://www.borgbackup.org/) to be used as backup client
 
 Dockerfile contains the following
-- [Bitnami Minideb](https://hub.docker.com/r/bitnami/minideb/) based on [Debian Stretch](https://www.debian.org/)
+- [Bitnami Minideb](https://hub.docker.com/r/bitnami/minideb/) based on [Debian Buster](https://www.debian.org/)
 - BorgBackup
 - OpenSSH client
 
